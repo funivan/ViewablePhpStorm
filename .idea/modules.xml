@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VariablePhpstorm.iml" filepath="$PROJECT_DIR$/VariablePhpstorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewablePhpstorm.iml" filepath="$PROJECT_DIR$/ViewablePhpstorm.iml" />
     </modules>
   </component>
 </project>
